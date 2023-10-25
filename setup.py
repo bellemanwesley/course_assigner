@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='course_assigner',
     packages=find_packages(),
-    version='0.0.1',
+    version='0.0.2',
     author='Wesley Belleman',
     author_email="bellemanwesley@gmail.com",
     description="Assign students to classes based on preference.",
